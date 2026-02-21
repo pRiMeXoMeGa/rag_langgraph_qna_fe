@@ -2,7 +2,7 @@
 
 A production-ready React frontend for a GenAI document intelligence platform that transforms static PDF documents into interactive Q&A experiences.
 
-**🌐 Deployed App:** 
+**🌐 Deployed App:** https://raglanggraphfe.netlify.app/
 
 ---
 
