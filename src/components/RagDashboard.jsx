@@ -29,8 +29,8 @@ const RagDashboard = () => {
   return (
     <div className="min-h-screen bg-slate-900 text-slate-100 p-8 font-sans">
       <header className="mb-10">
-        <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">
-          RAG Langgraph Manager
+        <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">
+          Agentic RAG: Document Intelligence Platform
         </h1>
         <p className="text-slate-400">Upload PDFs and query them with AI.</p>
       </header>
